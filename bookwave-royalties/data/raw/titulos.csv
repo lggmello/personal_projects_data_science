@@ -1,3 +1,11 @@
 titulo_id,sku,titulo,produtora,autor,moeda_padrao
-101,SKU-001,A Arte de Ouvir,Prod A,Autor X,BRL
-102,SKU-002,Dados em Ação,Prod B,Autora Y,BRL
+101,SKU-001,A Arte de Ouvir,Prod ABA,Autor Luis,BRL
+102,SKU-002,Dados em Ação,Prod SUS,Autor Valter,BRL
+103,SKU-003,Hey ha,Prod UAU,Autora Jucy,BRL
+104,SKU-004,Mundo Canibal,Prod ABA,Autora Maria,BRL
+105,SKU-005,O humor do Código,Prod SER,Autora Edna,BRL
+106,SKU-006,Vinte e Poucos Contos,Prod SER,Autora Beatriz,BRL
+107,SKU-007,O Jogo,Prod UAU,Autora Juliana,BRL
+108,SKU-008,Black Dog,Prod UAU,Autora Tamiris,BRL
+109,SKU-009,Si senor,Prod ABA,Autora Yasmin,BRL
+110,SKU-010,Aleluia,Prod ABA,Autora Jucy,BRL
