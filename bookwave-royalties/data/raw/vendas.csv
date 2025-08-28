@@ -1,0 +1,4 @@
+venda_id,dt_venda,parceiro_id,titulo_id,qtd,preco_unit_moeda_orig,moeda_original,cotacao_conversao,royalties_moeda_orig
+10001,2024-01-15,1,101,3,19.90,BRL,1.0,8.00
+10002,2024-01-15,2,102,2,9.99,USD,5.5,4.00
+10003,2024-02-10,1,102,1,11.99,USD,5.0,3.20

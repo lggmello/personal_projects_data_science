@@ -1,0 +1,5 @@
+user_id,recency_days,frequency,monetary,R,F,M,RFM_Score,segmento
+U001,10,2,19.9,4,2,4,424,Potenciais
+U002,156,2,14.9,2,2,2,222,Em risco
+U003,0,2,29.9,5,2,5,525,Potenciais
+U004,205,1,0.0,1,1,1,111,Em risco

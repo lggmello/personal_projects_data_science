@@ -1,0 +1,11 @@
+user_id,dt_ultima_atividade,recency_days,sessions_30d,minutes_30d,valor_pago_90d,desconto_pct,cancelou,plano,canal
+U001,2024-07-25,5,12,180,29.9,0.00,0,Plus,Organico
+U002,2024-07-20,10,8,75,14.9,0.10,0,Basic,Parceria
+U003,2024-07-22,8,15,220,39.9,0.00,0,Premium,Ads
+U004,2024-07-02,28,3,20,0.0,0.00,1,Basic,WhatsApp
+U005,2024-07-15,15,6,60,19.9,0.05,0,Plus,Organico
+U006,2024-07-01,29,2,10,0.0,0.00,1,Basic,Ads
+U007,2024-07-24,6,10,150,19.9,0.00,0,Plus,Parceria
+U008,2024-06-30,30,1,5,0.0,0.00,1,Basic,Ads
+U009,2024-07-26,4,18,240,49.9,0.15,0,Premium,Organico
+U010,2024-07-18,12,9,90,29.9,0.00,0,Plus,WhatsApp
